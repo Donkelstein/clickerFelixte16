@@ -1,0 +1,33 @@
+
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+/*shopen*/
+#shopUpgrade {
+	border: 0.2em solid black;
+	width: 30%;
+	height: 20em;
+	top: 18em;
+	left: 1em;
+	position: absolute;
+	position: absolute;
+}
+
+#shopText{
+	position: absolute;
+	top: 16em; 
+}
+
+
+
+#Warehouse, #Farm, #WaterTower, #PowerPlant {
+	margin-left: 2%;
+}
+
+#Warehouse, #Farm, #WaterTower, #PowerPlant:hover {
+	cursor: pointer;
+}
