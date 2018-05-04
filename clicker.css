@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+/* knappen */
+#clickButton {
+	border: 0.4em solid black;
+	border-radius: 0,5em;
+	width: 50%;
+	height: 50%;
+}
+
+/* shopen */
+#shopen {
+	border: 0.2em solid black;
+	width: 30%;
+	height: 100%; S 
+}
+
+
+#smallstore {
+	border: 0.2em solid red;
+	width: 100%
+	height: 20%;
+	margin-top: 5%;
+	margin-right: 0; 
+}
+
+#smallstore, #factory, #smallstoreClickUpgradering, #deposit :hover{
+	cursor: pointer;
+}
+
+#factory {
+	border: 0.2em solid red;
+	width: 100%;
+	height: 20%;
+	margin: 20%;
+	margin-left: 0;
+}
+
+#upgraderingar {
+	position: absolute;
+	border: 0.2em solid black;
+	width: 30%;
+	height: 80%;
+	right: 5em;
+	top: 2em;
+}
+
